@@ -30,7 +30,7 @@ jobs:
         env:
           # API SIROS e publica — sem necessidade de credenciais!
           # Adicione quantos aeroportos quiser (sem limite de chamadas)
-          AIRPORTS: ${{ vars.AIRPORTS || 'SBCA,SBGR,SBSP,SBCT,SBGL,SBBR,SBFL,SBPA,SBSV,SBFZ' }}
+          AIRPORTS: ${{ vars.AIRPORTS || 'SBRB, SBMO, SBMQ, SBEG, SBSV, SBIL, SBPS, SBFZ, SBJU, SBBR, SBVT, SBGO, SBSL, SBCY, SBCG, SBCF, SBBH, SBUL, SBBE, SBSN' }}
 
       - name: Commitar JSONs atualizados
         uses: stefanzweifel/git-auto-commit-action@v5
