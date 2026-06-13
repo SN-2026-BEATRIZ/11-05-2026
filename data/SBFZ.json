@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-13T11:07:05.487399+00:00",
+  "updated_at": "2026-06-13T13:18:20.919442+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBFZ",
   "airport_name": "Fortaleza",
   "airport_info": {
-    "sg_aerodromo_icao": "SBJU",
-    "sg_aerodromo_iata": "JDO",
-    "descricao": "ORLANDO BEZERRA DE MENEZES - JUAZEIRO DO NORTE - CE - BRASIL"
+    "sg_aerodromo_icao": "SBFZ",
+    "sg_aerodromo_iata": "FOR",
+    "descricao": "PINTO MARTINS - FORTALEZA - CE - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
