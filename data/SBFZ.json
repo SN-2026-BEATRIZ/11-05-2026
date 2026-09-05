@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-09-05T16:58:40.743694+00:00",
+  "updated_at": "2026-09-05T22:25:37.223712+00:00",
   "data_referencia": "2026-09-05",
   "airport_icao": "SBFZ",
   "airport_name": "Fortaleza",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBFZ",
-    "sg_aerodromo_iata": "FOR",
-    "descricao": "PINTO MARTINS - FORTALEZA - CE - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
